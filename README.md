@@ -68,7 +68,6 @@ scripts/get_devices.sh <YOUR_TOKEN>
 ## Sample Run
 
 ``` text
-# Below is 
 (venv) user@machine:~/repos/hexmodal-project$ scripts/send_payload.sh eb558283e0235ce70bf4834f92594062c566dfb5 device_abc 1 pass
 Sending Payload: Device=device_abc, fCnt=1, Status=pass
 curl: (7) Failed to connect to 127.0.0.1 port 8000 after 0 ms: Connection refused
